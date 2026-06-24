@@ -11,7 +11,7 @@ This repository records my daily LeetCode practice and serves as a reference for
 
 ## Progress
 
-- Easy : 0
+- Easy : 1
 - Medium : 0
 - Hard : 0
 
