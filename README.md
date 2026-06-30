@@ -11,12 +11,12 @@ This repository records my daily LeetCode practice and serves as a reference for
 
 ## Progress
 
-- Easy : 7
+- Easy : 9
 - Medium : 1
 - Hard : 0
 
 ## Dates
 
 - Start date : 23 Jun 2026
-- Lastest update : 27 Jun 2026
-- Longest delay : 0 days.
+- Lastest update : 30 Jun 2026
+- Longest delay : 1 days.
